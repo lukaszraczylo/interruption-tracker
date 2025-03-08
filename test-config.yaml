@@ -1,0 +1,15 @@
+data_directory: ./test-data
+backup_enabled: true
+backup_interval: 3
+recovery_time: 15
+default_session_length: 30
+enable_mouse: true
+color_theme: dark
+show_notifications: true
+custom_interruption_tags:
+  - Slack
+  - Email
+  - Coffee Break
+  - Phone Call
+enable_encryption: false
+password_protect: false

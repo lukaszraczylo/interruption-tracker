@@ -1,0 +1,13 @@
+{
+  "data_directory": "./test-data-json",
+  "backup_enabled": true,
+  "backup_interval": 5,
+  "recovery_time": 12,
+  "default_session_length": 25,
+  "enable_mouse": true,
+  "color_theme": "light",
+  "show_notifications": false,
+  "custom_interruption_tags": ["Teams", "GitHub", "Standup"],
+  "enable_encryption": false,
+  "password_protect": false
+}
